@@ -8,7 +8,7 @@ on:
     - cron: "1 * * * *"
 
 jobs:
-  build-and-deploy:
+  build:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
@@ -16,7 +16,6 @@ jobs:
     - uses: actions/setup-node@v2
       with:
         node-version: '14'
-    - name: 🚀 Deploy
     - run: |
         git config --global user.name "nmhung2022"
         git config --global user.email "nmhung2022@gmail.com"
