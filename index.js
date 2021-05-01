@@ -3,11 +3,9 @@ const fs = require("fs");
 
 async function getQuote() {
   try {
-    const idRan = Math.floor(Math.random() * 1543);
-    const { data } = await axios.get("https://type.fit/api/quotes");
-    const quote = data[idRan].text;
-    const author =
-      data[idRan].author === null ? `Anonymous` : data[idRan].author;
+    const { data } = await axios.get("https://api.quotable.io/random");
+    const quote = data.content;
+    const author = data.author === null ? `Anonymous` : data.author;
     return {
       quote,
       author,
@@ -17,8 +15,6 @@ async function getQuote() {
     return {};
   }
 }
-
-getQuote();
 
 const generate = async () => {
   const { quote, author } = await getQuote();
@@ -31,13 +27,8 @@ const generate = async () => {
   });
   const date = currentDate.toLocaleDateString("vi-VN");
   const today = time + " " + date;
-
-  try {
-    let quoteOfDay = `_Quote of the Day (${today})_\n___\n>**_${quote}_**\n___\n## **_${author}_**`;
-    fs.writeFileSync("README.md", quoteOfDay);
-  } catch (error) {
-    console.log(error);
-  }
+  let quoteOfDay = `_Quote of the Day (${today})_\n___\n>**_${quote}_**\n___\n## **_${author}_**`;
+  fs.writeFileSync("README.md", quoteOfDay);
 };
 
 generate();

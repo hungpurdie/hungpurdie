@@ -2,26 +2,26 @@ name: Node.js CI
 
 on:
   push:
-    branches: [ main ]
+    branches: [main]
   schedule:
-    - cron: "*/5 * * * *"
+    - cron: "50 21 * * *"
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - name: 🍽️ Get working copy
-      uses: actions/checkout@v2
-    - name: Setup Node.js 
-      uses: actions/setup-node@v2
-      with:
-        node-version: '14'
-    - name: 🍳 Shake & bake README
-      run: npm start
-    - name: 🚀 Deploy
-      run: |
-       git config user.name "${GITHUB_ACTOR}"
-        git config user.email "${GITHUB_ACTOR}@users.noreply.github.com"
-        git add .
-        git commit -m "update README.md"|| echo "No changes to commit"
-        git push
+      - name: 🍽️ Get working copy
+        uses: actions/checkout@v2
+      - name: Setup Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: "14"
+      - name: 🍳 Shake & bake README
+        run: npm start
+      - name: 🚀 Deploy
+        run: |
+          git config user.name "${GITHUB_ACTOR}"
+           git config user.email "${GITHUB_ACTOR}@users.noreply.github.com"
+           git add .
+           git commit -m "update README.md"|| echo "No changes to commit"
+           git push

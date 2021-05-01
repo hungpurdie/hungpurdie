@@ -1,5 +1,5 @@
-_Quote of the Day (18:23 1/5/2021)_
+_Quote of the Day (21:32 1/5/2021)_
 ___
->**_Always tell the truth. That way, you don't have to remember what you said._**
+>**_Change in all things is sweet._**
 ___
-## **_Mark Twain_**
+## **_Aristotle_**

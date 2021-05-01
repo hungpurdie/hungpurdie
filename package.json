@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^0.21.1",
-    "follow-redirects": "^1.14.0"
+    "follow-redirects": "^1.14.0",
+    "node-fetch": "^2.6.1"
   }
 }
