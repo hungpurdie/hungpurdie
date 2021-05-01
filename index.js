@@ -27,7 +27,7 @@ const generate = async () => {
   });
   const date = currentDate.toLocaleDateString("vi-VN");
   const today = time + " " + date;
-  let quoteOfDay = `_Quote of the Day (${today})_\n___\n>**_${quote}_**\n___\n## **_${author}_**`;
+  let quoteOfDay = `_Quote of the Day (${today})_\n___\n>**_${quote}_**\n___\n## \__ **_${author}_**`;
   fs.writeFileSync("README.md", quoteOfDay);
 };
 

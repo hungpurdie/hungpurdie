@@ -1,5 +1,5 @@
-_Quote of the Day (21:32 1/5/2021)_
+_Quote of the Day (21:58 1/5/2021)_
 ___
->**_Change in all things is sweet._**
+>**_The man of knowledge must be able not only to love his enemies but also to hate his friends._**
 ___
-## **_Aristotle_**
+## __ **_Friedrich Nietzsche_**
