@@ -14,7 +14,7 @@ jobs:
     - uses: actions/setup-node@v2
       with:
         node-version: '14'
-    - name: 🚀 Deploy
+    - name: Deploy
     - run: |
         git config --global user.name "nmhung2022"
         git config --global user.email "nmhung2022@gmail.com"
