@@ -1,5 +1,5 @@
-_Quote of the Day (5:25 PM 01/05/2021)_
+_Quote of the Day (5:42 CH 1/5/2021)_
 ___
->**_It has never been my object to record my dreams, just to realize them._**
+>**_Your work is to discover your world and then with all your heart give yourself to it._**
 ___
-## **_Man Ray_**
+## **_Buddha_**

@@ -23,16 +23,13 @@ getQuote();
 const generate = async () => {
   const { quote, author } = await getQuote();
   const currentDate = new Date();
-  const time = currentDate.toLocaleString("en-US", {
+  const time = currentDate.toLocaleTimeString("vi-VN", {
     hour: "numeric",
     minute: "numeric",
     hour12: true,
   });
-
-  const dd = String(currentDate.getDate()).padStart(2, "0");
-  const mm = String(currentDate.getMonth() + 1).padStart(2, "0");
-  const yyyy = String(currentDate.getFullYear());
-  const today = time + " " + dd + "/" + mm + "/" + yyyy;
+  const date = currentDate.toLocaleDateString("vi-VN");
+  const today = time + " " + date;
 
   try {
     let quoteOfDay = `_Quote of the Day (${today})_\n___\n>**_${quote}_**\n___\n## **_${author}_**`;
