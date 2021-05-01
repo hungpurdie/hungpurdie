@@ -6,9 +6,7 @@ name: SetUp nodejs
 on:
   push:
     branches: [ main ]
-  schedule:
-    - cron: "* * * * *"
-
+    
 jobs:
   build:
 
