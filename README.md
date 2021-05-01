@@ -1,5 +1,5 @@
-_Quote of the Day (18:16 1/5/2021)_
+_Quote of the Day (18:23 1/5/2021)_
 ___
->**_Everything can be taken from a man but ... the last of the human freedoms to choose ones attitude in any given set of circumstances, to choose ones own way._**
+>**_Always tell the truth. That way, you don't have to remember what you said._**
 ___
-## **_Victor Frankl_**
+## **_Mark Twain_**
