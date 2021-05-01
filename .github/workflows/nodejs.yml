@@ -11,11 +11,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
-    - uses: actions/setup-node@v2
+    - name: Setup 
+      uses: actions/setup-node@v2
       with:
         node-version: '14'
-    - run: npm start
-    - run: |
+    - name: 🍳 Shake & bake README
+      run: npm start
+    - name: 🚀 Deploy
+      run: |
         git config --global user.name "nmhung2022"
         git config --global user.email "nmhung2022@gmail.com"
         git add .
