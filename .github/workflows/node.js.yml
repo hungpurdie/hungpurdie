@@ -11,5 +11,5 @@ jobs:
           git config user.name "nmhung2022"
           git config user.email "nmhung2022@github.com"
           git add a.txt
-          git commit -m "update txt"
+          git commit -m "update txt"|| echo "No changes to commit"
           git push
