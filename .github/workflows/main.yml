@@ -26,5 +26,8 @@ jobs:
       with:
         node-version: ${{ matrix.node-version }}
     - run: npm ci
-    - run: npm run start 
     - run: npm start
+    - name: Update README.md
+        run:|
+          git config --global user.name "nmhung2022"
+          git config --global user.email "nmhung20022@gmail.com"
