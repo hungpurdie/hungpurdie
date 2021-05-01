@@ -16,8 +16,6 @@ jobs:
     - uses: actions/setup-node@v2
       with:
         node-version: '14'
-    - name: generate
-    - run: npm start
     - name: 🚀 Deploy
     - run: |
         git config --global user.name "nmhung2022"
