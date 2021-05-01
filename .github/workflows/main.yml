@@ -28,6 +28,8 @@ jobs:
     - run: npm ci
     - run: npm start
     - name: Update README.md
-        run:|
-          git config --global user.name "nmhung2022"
-          git config --global user.email "nmhung20022@gmail.com"
+    - run: git add .
+    - run: git config --global user.name 'Aaro Alhainen'
+    - run: git config --global user.email 'aaralh@users.noreply.github.com'
+    - run: git commit -m "Updated README.md" || echo "No changes to commit"
+    - run: git push
