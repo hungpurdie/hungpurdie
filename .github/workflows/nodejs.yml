@@ -1,7 +1,12 @@
 
 name: Node.js CI
 
-on: push
+on: 
+  push:
+    branches: [ main ]
+  schedule:
+    - cron: "1 * * *"
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -11,5 +16,5 @@ jobs:
           git config user.name "nmhung2022"
           git config user.email "nmhung2022@gmail.com"
           git add .
-          git commit -m "update txt"|| echo "No changes to commit"
+          git commit -m "update txt"
           git push
