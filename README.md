@@ -1,5 +1,5 @@
-_Quote of the Day (18:13 1/5/2021)_
+_Quote of the Day (18:16 1/5/2021)_
 ___
->**_It is one of the blessings of old friends that you can afford to be stupid with them._**
+>**_Everything can be taken from a man but ... the last of the human freedoms to choose ones attitude in any given set of circumstances, to choose ones own way._**
 ___
-## **_Ralph Emerson_**
+## **_Victor Frankl_**
