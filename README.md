@@ -1,5 +1,5 @@
-_Quote of the Day (5:42 CH 1/5/2021)_
+_Quote of the Day (18:13 1/5/2021)_
 ___
->**_Your work is to discover your world and then with all your heart give yourself to it._**
+>**_It is one of the blessings of old friends that you can afford to be stupid with them._**
 ___
-## **_Buddha_**
+## **_Ralph Emerson_**

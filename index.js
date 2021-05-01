@@ -24,9 +24,10 @@ const generate = async () => {
   const { quote, author } = await getQuote();
   const currentDate = new Date();
   const time = currentDate.toLocaleTimeString("vi-VN", {
-    hour: "numeric",
-    minute: "numeric",
-    hour12: true,
+    hour: "2-digit",
+    minute: "2-digit",
+    hour12: false,
+    timeZone: "Asia/Ho_Chi_Minh",
   });
   const date = currentDate.toLocaleDateString("vi-VN");
   const today = time + " " + date;
