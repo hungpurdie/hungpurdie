@@ -1,5 +1,5 @@
-_Quote of the Day (05/01/2021)_
+_Quote of the Day (5:25 PM 01/05/2021)_
 ___
->**_Obstacles are those frightful things you see when you take your eyes off your goal._**
+>**_It has never been my object to record my dreams, just to realize them._**
 ___
-## **_Henry Ford_**
+## **_Man Ray_**
