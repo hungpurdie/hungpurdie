@@ -1,5 +1,5 @@
-_Quote of the Day (08:18 2/5/2021)_
+_Quote of the Day (08:20 2/5/2021)_
 ___
->**_What lies behind us and what lies before us are tiny matters compared to what lies within us._**
+>**_Moral excellence comes about as a result of habit. We become just by doing just acts, temperate by doing temperate acts, brave by doing brave acts._**
 ___
-## __ **_Ralph Waldo Emerson_**
+## __ **_Aristotle_**
