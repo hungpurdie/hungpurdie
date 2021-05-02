@@ -1,5 +1,5 @@
-_Quote of the Day (07:54 2/5/2021)_
+_Quote of the Day (08:18 2/5/2021)_
 ___
->**_We have two ears and one mouth so that we can listen twice as much as we speak._**
+>**_What lies behind us and what lies before us are tiny matters compared to what lies within us._**
 ___
-## __ **_Epictetus_**
+## __ **_Ralph Waldo Emerson_**
