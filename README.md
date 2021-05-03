@@ -1,5 +1,5 @@
-_Quote of the Day (15:08 3/5/2021)_
+_Quote of the Day (15:37 3/5/2021)_
 ___
->**_When you judge another, you do not define them, you define yourself._**
+>**_All this worldly wisdom was once the unamiable heresy of some wise man._**
 ___
-## __ **_Wayne Dyer_**
+## __ **_Henry David Thoreau_**
