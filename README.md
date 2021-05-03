@@ -1,5 +1,5 @@
-_Quote of the Day (15:37 3/5/2021)_
+_Quote of the Day (15:55 3/5/2021)_
 ___
->**_All this worldly wisdom was once the unamiable heresy of some wise man._**
+>**_Your body is precious. It is our vehicle for awakening. Treat it with care._**
 ___
-## __ **_Henry David Thoreau_**
+## __ **_Buddha_**
