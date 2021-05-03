@@ -4,12 +4,17 @@ on:
   push:
     branches: [main]
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "20 14  * * *"
 
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
     steps:
+      - name: Setup timezone
+      - name: Setup timezone
+        uses: zcong1993/setup-timezone@v1.1.1
+        with:
+              timezone: Asia/Ho_Chi_Minh
       - name: 🍽️ Get working copy
         uses: actions/checkout@v2
       - name: Setup Node.js
