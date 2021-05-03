@@ -1,5 +1,5 @@
-_Quote of the Day (15:55 3/5/2021)_
+_Quote of the Day (16:28 3/5/2021)_
 ___
->**_Your body is precious. It is our vehicle for awakening. Treat it with care._**
+>**_The wisdom of the wise, and the experience of ages, may be preserved by quotation._**
 ___
-## __ **_Buddha_**
+## __ **_Isaac D'Israeli_**
