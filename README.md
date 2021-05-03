@@ -1,5 +1,5 @@
-_Quote of the Day (14:42 3/5/2021)_
+_Quote of the Day (14:52 3/5/2021)_
 ___
->**_The art challenges the technology, and the technology inspires the art._**
+>**_To succeed, we must first believe that we can._**
 ___
-## __ **_John Lasseter_**
+## __ **_Michael Korda_**
