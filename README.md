@@ -1,5 +1,5 @@
-_Quote of the Day (08:20 2/5/2021)_
+_Quote of the Day (07:51 3/5/2021)_
 ___
->**_Moral excellence comes about as a result of habit. We become just by doing just acts, temperate by doing temperate acts, brave by doing brave acts._**
+>**_The purpose of learning is growth, and our minds, unlike our bodies, can continue growing as we continue to live._**
 ___
-## __ **_Aristotle_**
+## __ **_Mortimer J. Adler_**
