@@ -1,5 +1,5 @@
-_Quote of the Day (14:52 3/5/2021)_
+_Quote of the Day (15:08 3/5/2021)_
 ___
->**_To succeed, we must first believe that we can._**
+>**_When you judge another, you do not define them, you define yourself._**
 ___
-## __ **_Michael Korda_**
+## __ **_Wayne Dyer_**
