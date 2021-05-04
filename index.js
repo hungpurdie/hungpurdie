@@ -23,6 +23,7 @@ const generate = async () => {
     hour: "2-digit",
     minute: "2-digit",
     hour12: false,
+    timeZone: "asia/Ho_Chi_Minh"
   });
   const date = currentDate.toLocaleDateString("vi-VN");
   const today = time + " " + date;
