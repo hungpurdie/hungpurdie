@@ -1,5 +1,5 @@
-_Quote of the Day (16:28 3/5/2021)_
+_Quote of the Day (07:22 4/5/2021)_
 ___
->**_The wisdom of the wise, and the experience of ages, may be preserved by quotation._**
+>**_Nothing diminishes anxiety faster than action._**
 ___
-## __ **_Isaac D'Israeli_**
+## __ **_Walter Inglis Anderson_**
