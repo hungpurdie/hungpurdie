@@ -31,3 +31,8 @@ const generate = async () => {
 };
 
 generate();
+
+// - name: Setup timezone
+//         uses: zcong1993/setup-timezone@v1.1.1
+//         with:
+//           timezone: Asia/Ho_Chi_Minh
