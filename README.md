@@ -1,5 +1,5 @@
-_Quote of the Day (07:43 4/5/2021)_
+_Quote of the Day (07:52 5/5/2021)_
 ___
->**_Friendship with ones self is all important, because without it one cannot be friends with anyone else in the world._**
+>**_So much technology, so little talent._**
 ___
-## __ **_Eleanor Roosevelt_**
+## __ **_Vernor Vinge_**
