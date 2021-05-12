@@ -23,17 +23,14 @@ const generate = async () => {
     hour: "2-digit",
     minute: "2-digit",
     hour12: false,
-    timeZone: "asia/Ho_Chi_Minh"
+    timeZone: "asia/Ho_Chi_Minh",
   });
   const date = currentDate.toLocaleDateString("vi-VN");
   const today = time + " " + date;
-  let quoteOfDay = `_Quote of the Day (${today})_\n___\n>**_${quote}_**\n___\n## \__ **_${author}_**`;
+  greeting =
+    "[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=FFDD00&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg)";
+  let quoteOfDay = `${greeting}\n_Quote of the Day (${today})_\n___\n>**_${quote}_**\n___\n## \__ **_${author}_**`;
   fs.writeFileSync("README.md", quoteOfDay);
 };
 
 generate();
-
-// - name: Setup timezone
-//         uses: zcong1993/setup-timezone@v1.1.1
-//         with:
-//           timezone: Asia/Ho_Chi_Minh
