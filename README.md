@@ -1,6 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=FFDD00&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg)
-_Quote of the Day (12:58 12/5/2021)_
+<p align='center'><img src='https://komarev.com/ghpvc/?username=hungpurdie&label=Total+Vistors&color=brightgreen&style=plastic'></p> 
+
+
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
+ _Quote of the Day (13:27:12, 12/3/2022)_
 ___
->**_When you learn, teach. When you get, give._**
+>**_The greatest gift of life is friendship, and I have received it._**
 ___
-## __ **_Maya Angelou_**
+## __ **_Hubert Humphrey_** 
+<p align="center"><img src="src/assets/images/robot-dancing-dribble.gif" width=70% /></p>
