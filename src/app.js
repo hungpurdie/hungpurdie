@@ -5,7 +5,7 @@ import { getFullDate } from "./utils";
 
 const totalVisitor = `<p align='center'><img src='${VISTOR_COUNT}'></p>`;
 const greets = `[![Typing SVG](${TYPING_SVG})](https://git.io/typing-svg)`;
-const images = `\n<p align="center"><img src="${PATH_IMG}" width=70% /></p>`;
+const images = `\n<p align="center"><img src="${PATH_IMG}"/></p>`;
 
 async function getQuote() {
   try {
