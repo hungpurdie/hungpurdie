@@ -16,6 +16,8 @@ jobs:
         uses: actions/setup-node@v2
         with:
           node-version: "16"
+      - name: 🍳Make dependance
+        run: npm install
       - name: 🍳 Shake & bake README
         run: npm start
       - name: 🚀 Deploy
