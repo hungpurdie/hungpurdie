@@ -2,9 +2,9 @@
 
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
- _Quote of the Day (05:12:56, 15/3/2022)_
+ _Quote of the Day (05:12:37, 16/3/2022)_
 ___
->**_There is a wisdom of the head, and a wisdom of the heart._**
+>**_If you spend too much time thinking about a thing, you'll never get it done._**
 ___
-## __ **_Charles Dickens_** 
+## __ **_Bruce Lee_** 
 <p align="center"><img src="src/assets/images/robot-dancing-dribble.gif"/></p>
