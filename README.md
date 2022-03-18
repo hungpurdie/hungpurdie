@@ -2,9 +2,9 @@
 
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
- _Quote of the Day (05:12:34, 17/3/2022)_
+ _Quote of the Day (05:12:15, 18/3/2022)_
 ___
->**_A quarrel between friends, when made up, adds a new tie to friendship._**
+>**_Happiness is as a butterfly which, when pursued, is always beyond our grasp, but which if you will sit down quietly, may alight upon you._**
 ___
-## __ **_Francis de Sales_** 
+## __ **_Nathaniel Hawthorne_** 
 <p align="center"><img src="src/assets/images/robot-dancing-dribble.gif"/></p>
