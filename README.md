@@ -2,9 +2,9 @@
 
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
- _Quote of the Day (05:12:15, 18/3/2022)_
+ _Quote of the Day (05:11:53, 19/3/2022)_
 ___
->**_Happiness is as a butterfly which, when pursued, is always beyond our grasp, but which if you will sit down quietly, may alight upon you._**
+>**_Error is discipline through which we advance._**
 ___
-## __ **_Nathaniel Hawthorne_** 
+## __ **_William Ellery Channing_** 
 <p align="center"><img src="src/assets/images/robot-dancing-dribble.gif"/></p>
