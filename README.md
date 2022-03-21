@@ -2,9 +2,9 @@
 
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
- _Quote of the Day (05:11:51, 20/3/2022)_
+ _Quote of the Day (05:12:37, 21/3/2022)_
 ___
->**_If you want to succeed you should strike out on new paths, rather than travel the worn paths of accepted success._**
+>**_The greatest way to live with honor in this world is to be what we pretend to be._**
 ___
-## __ **_John Locke_** 
+## __ **_Socrates_** 
 <p align="center"><img src="src/assets/images/robot-dancing-dribble.gif"/></p>
