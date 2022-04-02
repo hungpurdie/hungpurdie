@@ -2,9 +2,9 @@
 
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
- _Quote of the Day (05:12:27, 1/4/2022)_
+ _Quote of the Day (05:12:14, 2/4/2022)_
 ___
->**_It does not matter how slowly you go as long as you do not stop._**
+>**_To study and not think is a waste. To think and not study is dangerous._**
 ___
 ## __ **_Confucius_** 
 <p align="center"><img src="src/assets/images/robot-dancing-dribble.gif"/></p>
