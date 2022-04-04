@@ -2,9 +2,9 @@
 
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
- _Quote of the Day (05:12:26, 3/4/2022)_
+ _Quote of the Day (05:14:05, 4/4/2022)_
 ___
->**_There is nothing like returning to a place that remains unchanged to find the ways in which you yourself have altered._**
+>**_We must become the change we want to see._**
 ___
-## __ **_Nelson Mandela_** 
+## __ **_Mahatma Gandhi_** 
 <p align="center"><img src="src/assets/images/robot-dancing-dribble.gif"/></p>
