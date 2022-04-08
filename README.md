@@ -2,9 +2,9 @@
 
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
- _Quote of the Day (05:12:39, 7/4/2022)_
+ _Quote of the Day (05:12:27, 8/4/2022)_
 ___
->**_Wisdom is always an overmatch for strength._**
+>**_Speak low, if you speak love._**
 ___
-## __ **_Phil Jackson_** 
+## __ **_William Shakespeare_** 
 <p align="center"><img src="src/assets/images/robot-dancing-dribble.gif"/></p>
