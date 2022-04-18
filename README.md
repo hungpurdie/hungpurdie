@@ -2,9 +2,9 @@
 
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
- _Quote of the Day (05:12:23, 17/4/2022)_
+ _Quote of the Day (05:13:55, 18/4/2022)_
 ___
->**_People take different roads seeking fulfilment and happiness. Just because they're not on your road doesn't mean they've gotten lost._**
+>**_There is nothing in a caterpillar that tells you it's going to be a butterfly._**
 ___
-## __ **_Dalai Lama_** 
+## __ **_Buckminster Fuller_** 
 <p align="center"><img src="src/assets/images/robot-dancing-dribble.gif"/></p>
