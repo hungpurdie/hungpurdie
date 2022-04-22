@@ -2,9 +2,9 @@
 
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
- _Quote of the Day (05:33:58, 21/4/2022)_
+ _Quote of the Day (05:32:45, 22/4/2022)_
 ___
->**_I am not bothered by the fact that I am unknown. I am bothered when I do not know others._**
+>**_Friendship is one mind in two bodies._**
 ___
-## __ **_Confucius_** 
+## __ **_Mencius_** 
 <p align="center"><img src="src/assets/images/robot-dancing-dribble.gif"/></p>
