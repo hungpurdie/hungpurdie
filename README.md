@@ -2,9 +2,9 @@
 
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
- _Quote of the Day (05:32:45, 22/4/2022)_
+ _Quote of the Day (05:12:14, 23/4/2022)_
 ___
->**_Friendship is one mind in two bodies._**
+>**_I find hope in the darkest of days, and focus in the brightest. I do not judge the universe._**
 ___
-## __ **_Mencius_** 
+## __ **_Dalai Lama_** 
 <p align="center"><img src="src/assets/images/robot-dancing-dribble.gif"/></p>
