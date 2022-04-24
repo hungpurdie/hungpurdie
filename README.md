@@ -2,9 +2,9 @@
 
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
- _Quote of the Day (05:12:14, 23/4/2022)_
+ _Quote of the Day (05:12:19, 24/4/2022)_
 ___
->**_I find hope in the darkest of days, and focus in the brightest. I do not judge the universe._**
+>**_With every experience, you alone are painting your own canvas, thought by thought, choice by choice._**
 ___
-## __ **_Dalai Lama_** 
+## __ **_Oprah Winfrey_** 
 <p align="center"><img src="src/assets/images/robot-dancing-dribble.gif"/></p>
