@@ -2,9 +2,9 @@
 
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
- _Quote of the Day (05:16:30, 26/4/2022)_
+ _Quote of the Day (05:25:06, 27/4/2022)_
 ___
->**_Better to have loved and lost, than to have never loved at all._**
+>**_Good advice is always certain to be ignored, but that's no reason not to give it._**
 ___
-## __ **_Augustine of Hippo_** 
+## __ **_Agatha Christie_** 
 <p align="center"><img src="src/assets/images/robot-dancing-dribble.gif"/></p>
