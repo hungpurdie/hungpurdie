@@ -2,9 +2,9 @@
 
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
- _Quote of the Day (05:27:34, 2/5/2022)_
+ _Quote of the Day (05:17:11, 3/5/2022)_
 ___
->**_To be tested is good. The challenged life may be the best therapist._**
+>**_Good thoughts are no better than good dreams, unless they be executed._**
 ___
-## __ **_Gail Sheehy_** 
+## __ **_Ralph Waldo Emerson_** 
 <p align="center"><img src="src/assets/images/robot-dancing-dribble.gif"/></p>
