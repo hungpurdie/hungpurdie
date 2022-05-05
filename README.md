@@ -2,9 +2,9 @@
 
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
- _Quote of the Day (05:16:57, 4/5/2022)_
+ _Quote of the Day (05:19:28, 5/5/2022)_
 ___
->**_Age does not protect you from love. But love, to some extent, protects you from age._**
+>**_The key to wisdom is this - constant and frequent questioning, for by doubting we are led to question and by questioning we arrive at the truth._**
 ___
-## __ **_Anaïs Nin_** 
+## __ **_Peter Abelard_** 
 <p align="center"><img src="src/assets/images/robot-dancing-dribble.gif"/></p>
