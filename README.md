@@ -2,9 +2,9 @@
 
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
- _Quote of the Day (05:12:19, 7/5/2022)_
+ _Quote of the Day (05:13:16, 8/5/2022)_
 ___
->**_A failure is a man who has blundered but is not capable of cashing in on the experience._**
+>**_One's philosophy is not best expressed in words; it is expressed in the choices one makes... and the choices we make are ultimately our responsibility._**
 ___
-## __ **_Elbert Hubbard_** 
+## __ **_Eleanor Roosevelt_** 
 <p align="center"><img src="src/assets/images/robot-dancing-dribble.gif"/></p>
