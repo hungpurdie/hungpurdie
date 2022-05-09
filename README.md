@@ -2,9 +2,9 @@
 
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
- _Quote of the Day (05:13:16, 8/5/2022)_
+ _Quote of the Day (05:18:00, 9/5/2022)_
 ___
->**_One's philosophy is not best expressed in words; it is expressed in the choices one makes... and the choices we make are ultimately our responsibility._**
+>**_The first requisite for success is the ability to apply your physical and mental energies to one problem incessantly without growing weary._**
 ___
-## __ **_Eleanor Roosevelt_** 
+## __ **_Thomas Edison_** 
 <p align="center"><img src="src/assets/images/robot-dancing-dribble.gif"/></p>
