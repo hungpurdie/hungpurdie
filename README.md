@@ -2,9 +2,9 @@
 
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
- _Quote of the Day (05:23:49, 11/5/2022)_
+ _Quote of the Day (05:20:42, 12/5/2022)_
 ___
->**_Action may not always bring happiness; but there is no happiness without action._**
+>**_I decided that it was not wisdom that enabled poets to write their poetry, but a kind of instinct or inspiration, such as you find in seers and prophets who deliver all their sublime messages without knowing in the least what they mean._**
 ___
-## __ **_Benjamin Disraeli_** 
+## __ **_Isocrates_** 
 <p align="center"><img src="src/assets/images/robot-dancing-dribble.gif"/></p>
