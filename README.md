@@ -2,9 +2,9 @@
 
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
- _Quote of the Day (05:19:34, 24/5/2022)_
+ _Quote of the Day (05:18:25, 25/5/2022)_
 ___
->**_No one can make you feel inferior without your consent._**
+>**_What we think, we become._**
 ___
-## __ **_Eleanor Roosevelt_** 
+## __ **_Buddha_** 
 <p align="center"><img src="src/assets/images/robot-dancing-dribble.gif"/></p>
