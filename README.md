@@ -2,9 +2,9 @@
 
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
- _Quote of the Day (05:17:09, 29/5/2022)_
+ _Quote of the Day (05:23:25, 30/5/2022)_
 ___
->**_Impossibilities are merely things which we have not yet learned._**
+>**_True happiness means forging a strong spirit that is undefeated, no matter how trying our circumstances._**
 ___
-## __ **_Charles W. Chesnutt_** 
+## __ **_Daisaku Ikeda_** 
 <p align="center"><img src="src/assets/images/robot-dancing-dribble.gif"/></p>
