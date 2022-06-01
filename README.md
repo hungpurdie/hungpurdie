@@ -2,9 +2,9 @@
 
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
- _Quote of the Day (05:19:52, 31/5/2022)_
+ _Quote of the Day (05:42:50, 1/6/2022)_
 ___
->**_If you can't feed a hundred people, then feed just one._**
+>**_If opportunity doesn't knock, build a door._**
 ___
-## __ **_Mother Teresa_** 
+## __ **_Milton Berle_** 
 <p align="center"><img src="src/assets/images/robot-dancing-dribble.gif"/></p>
