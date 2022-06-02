@@ -2,9 +2,9 @@
 
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
- _Quote of the Day (05:42:50, 1/6/2022)_
+ _Quote of the Day (05:28:08, 2/6/2022)_
 ___
->**_If opportunity doesn't knock, build a door._**
+>**_If you have knowledge, let others light their candles in it._**
 ___
-## __ **_Milton Berle_** 
+## __ **_Margaret Fuller_** 
 <p align="center"><img src="src/assets/images/robot-dancing-dribble.gif"/></p>
