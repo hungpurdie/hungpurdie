@@ -2,9 +2,9 @@
 
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
- _Quote of the Day (05:15:03, 6/6/2022)_
+ _Quote of the Day (05:11:54, 7/6/2022)_
 ___
->**_We must overcome the notion that we must be regular. It robs you of the chance to be extraordinary and leads you to the mediocre._**
+>**_Experience is simply the name we give our mistakes._**
 ___
-## __ **_Uta Hagen_** 
+## __ **_Oscar Wilde_** 
 <p align="center"><img src="src/assets/images/robot-dancing-dribble.gif"/></p>
