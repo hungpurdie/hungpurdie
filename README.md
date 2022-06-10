@@ -2,9 +2,9 @@
 
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
- _Quote of the Day (05:13:16, 9/6/2022)_
+ _Quote of the Day (05:12:15, 10/6/2022)_
 ___
->**_Love has no age, no limit; and no death._**
+>**_Every man is a damn fool for at least five minutes every day; wisdom consists in not exceeding the limit._**
 ___
-## __ **_John Galsworthy_** 
+## __ **_Elbert Hubbard_** 
 <p align="center"><img src="src/assets/images/robot-dancing-dribble.gif"/></p>
