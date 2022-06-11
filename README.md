@@ -2,9 +2,9 @@
 
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
- _Quote of the Day (05:12:15, 10/6/2022)_
+ _Quote of the Day (05:12:02, 11/6/2022)_
 ___
->**_Every man is a damn fool for at least five minutes every day; wisdom consists in not exceeding the limit._**
+>**_We know the truth, not only by the reason, but by the heart._**
 ___
-## __ **_Elbert Hubbard_** 
+## __ **_Blaise Pascal_** 
 <p align="center"><img src="src/assets/images/robot-dancing-dribble.gif"/></p>
