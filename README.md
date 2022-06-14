@@ -2,9 +2,9 @@
 
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
- _Quote of the Day (05:19:14, 13/6/2022)_
+ _Quote of the Day (05:27:16, 14/6/2022)_
 ___
->**_One who gains strength by overcoming obstacles possesses the only strength which can overcome adversity._**
+>**_Well begun is half done._**
 ___
-## __ **_Albert Schweitzer_** 
+## __ **_Aristotle_** 
 <p align="center"><img src="src/assets/images/robot-dancing-dribble.gif"/></p>
