@@ -2,9 +2,9 @@
 
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
- _Quote of the Day (05:16:01, 16/6/2022)_
+ _Quote of the Day (05:15:25, 17/6/2022)_
 ___
->**_Don't believe what your eyes are telling you. All they show is limitation. Look with your understanding, find out what you already know, and you'll see the way to fly._**
+>**_A true friend is one who overlooks your failures and tolerates your success!_**
 ___
-## __ **_Richard Bach_** 
+## __ **_Doug Larson_** 
 <p align="center"><img src="src/assets/images/robot-dancing-dribble.gif"/></p>
