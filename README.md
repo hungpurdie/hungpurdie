@@ -2,9 +2,9 @@
 
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
- _Quote of the Day (05:15:25, 17/6/2022)_
+ _Quote of the Day (05:11:37, 18/6/2022)_
 ___
->**_A true friend is one who overlooks your failures and tolerates your success!_**
+>**_I don't need a friend who changes when I change and who nods when I nod; my shadow does that much better._**
 ___
-## __ **_Doug Larson_** 
+## __ **_Plutarch_** 
 <p align="center"><img src="src/assets/images/robot-dancing-dribble.gif"/></p>
