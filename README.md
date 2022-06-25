@@ -2,9 +2,9 @@
 
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
- _Quote of the Day (05:18:49, 24/6/2022)_
+ _Quote of the Day (05:12:15, 25/6/2022)_
 ___
->**_Technology is nothing. What's important is that you have a faith in people, that they're basically good and smart, and if you give them tools, they'll do wonderful things with them._**
+>**_Time is the most valuable thing a man can spend._**
 ___
-## __ **_Steve Jobs_** 
+## __ **_Theophrastus_** 
 <p align="center"><img src="src/assets/images/robot-dancing-dribble.gif"/></p>
