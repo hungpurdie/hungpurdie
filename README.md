@@ -2,9 +2,9 @@
 
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
- _Quote of the Day (05:23:08, 29/6/2022)_
+ _Quote of the Day (05:20:57, 30/6/2022)_
 ___
->**_Chaos is inherent in all compounded things. Strive on with diligence._**
+>**_In order to live free and happily you must sacrifice boredom. It is not always an easy sacrifice._**
 ___
-## __ **_Buddha_** 
+## __ **_Richard Bach_** 
 <p align="center"><img src="src/assets/images/robot-dancing-dribble.gif"/></p>
