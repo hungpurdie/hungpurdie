@@ -2,9 +2,9 @@
 
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
- _Quote of the Day (05:15:43, 2/7/2022)_
+ _Quote of the Day (05:12:31, 3/7/2022)_
 ___
->**_Something opens our wings. Something makes boredom and hurt disappear. Someone fills the cup in front of us: We taste only sacredness._**
+>**_I'm selfish, impatient and a little insecure. I make mistakes, I am out of control and at times hard to handle. But if you can't handle me at my worst, then you sure as hell don't deserve me at my best._**
 ___
-## __ **_Rumi_** 
+## __ **_Marilyn Monroe_** 
 <p align="center"><img src="src/assets/images/robot-dancing-dribble.gif"/></p>
