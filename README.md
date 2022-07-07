@@ -2,9 +2,9 @@
 
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
- _Quote of the Day (05:24:24, 6/7/2022)_
+ _Quote of the Day (05:22:13, 7/7/2022)_
 ___
->**_Start with what is right rather than what is acceptable._**
+>**_We lost because we told ourselves we lost._**
 ___
-## __ **_Franz Kafka_** 
+## __ **_Leo Tolstoy_** 
 <p align="center"><img src="src/assets/images/robot-dancing-dribble.gif"/></p>
