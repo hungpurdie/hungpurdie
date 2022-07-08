@@ -2,9 +2,9 @@
 
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
- _Quote of the Day (05:22:13, 7/7/2022)_
+ _Quote of the Day (05:20:28, 8/7/2022)_
 ___
->**_We lost because we told ourselves we lost._**
+>**_Life is what happens to you while you're busy making other plans._**
 ___
-## __ **_Leo Tolstoy_** 
+## __ **_John Lennon_** 
 <p align="center"><img src="src/assets/images/robot-dancing-dribble.gif"/></p>
