@@ -2,9 +2,9 @@
 
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
- _Quote of the Day (05:34:36, 12/7/2022)_
+ _Quote of the Day (05:17:54, 13/7/2022)_
 ___
->**_I prefer the folly of enthusiasm to the indifference of wisdom._**
+>**_The art challenges the technology, and the technology inspires the art._**
 ___
-## __ **_Anatole France_** 
+## __ **_John Lasseter_** 
 <p align="center"><img src="src/assets/images/robot-dancing-dribble.gif"/></p>
