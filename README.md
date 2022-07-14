@@ -2,9 +2,9 @@
 
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
- _Quote of the Day (05:17:54, 13/7/2022)_
+ _Quote of the Day (05:27:28, 14/7/2022)_
 ___
->**_The art challenges the technology, and the technology inspires the art._**
+>**_Do not be too timid and squeamish about your reactions. All life is an experiment. The more experiments you make the better._**
 ___
-## __ **_John Lasseter_** 
+## __ **_Ralph Waldo Emerson_** 
 <p align="center"><img src="src/assets/images/robot-dancing-dribble.gif"/></p>
