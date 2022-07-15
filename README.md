@@ -2,9 +2,9 @@
 
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
- _Quote of the Day (05:27:28, 14/7/2022)_
+ _Quote of the Day (05:38:37, 15/7/2022)_
 ___
->**_Do not be too timid and squeamish about your reactions. All life is an experiment. The more experiments you make the better._**
+>**_Take things as they are. Punch when you have to punch. Kick when you have to kick._**
 ___
-## __ **_Ralph Waldo Emerson_** 
+## __ **_Bruce Lee_** 
 <p align="center"><img src="src/assets/images/robot-dancing-dribble.gif"/></p>
