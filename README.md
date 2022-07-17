@@ -2,9 +2,9 @@
 
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C2F784&size=35&width=900&height=100&lines=Hello+World%2C+I'm+Hung+!)](https://git.io/typing-svg) 
- _Quote of the Day (05:13:16, 16/7/2022)_
+ _Quote of the Day (05:15:25, 17/7/2022)_
 ___
->**_America's freedom of religion, and freedom from religion, offers every wisdom tradition an opportunity to address our soul-deep needs: Christianity, Judaism, Islam, Buddhism, Hinduism, secular humanism, agnosticism and atheism among others._**
+>**_Decision is a risk rooted in the courage of being free._**
 ___
-## __ **_Parker Palmer_** 
+## __ **_Paul Tillich_** 
 <p align="center"><img src="src/assets/images/robot-dancing-dribble.gif"/></p>
